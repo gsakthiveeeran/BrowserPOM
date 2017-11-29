@@ -1,0 +1,9 @@
+<suite name="MindValley Suite" verbose="1">
+
+    <test name="MindValley Login Browser" parallel="false" thread-count="1">
+        <classes>
+            <class name="testCases.TestCase" />
+        </classes>
+    </test>
+ 
+</suite>
