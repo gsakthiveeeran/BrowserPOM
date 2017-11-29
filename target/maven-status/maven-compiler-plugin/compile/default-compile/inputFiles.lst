@@ -1,1 +1,6 @@
-/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/com/sample/project/AppiumPOM/App.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/activityClasses/HomePage.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/activityClasses/LoginPage.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/activityClasses/PasswordResetPage.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/testCases/samp.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/commonUtils/ReadData.java
+/Users/gsakthiveeran/Desktop/AppiumPOM/src/main/java/commonUtils/TestCaseUtil.java

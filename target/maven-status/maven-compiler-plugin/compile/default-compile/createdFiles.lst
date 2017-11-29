@@ -1,1 +1,6 @@
-com/sample/project/AppiumPOM/App.class
+activityClasses/LoginPage.class
+activityClasses/PasswordResetPage.class
+activityClasses/HomePage.class
+commonUtils/TestCaseUtil.class
+commonUtils/ReadData.class
+testCases/samp.class
